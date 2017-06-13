@@ -14,6 +14,8 @@
 
 ## LINEAR ALGEBRA
 
+* [Refresher](linear-algebra/refresher.md)
+
 ## SUPERVISED LEARNING
 
 ## UNSUPERVISED LEARNING
