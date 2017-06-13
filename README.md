@@ -34,14 +34,13 @@ Over time, we will be updating this section with the relevant trails \(syllabus\
 * DEEP LEARNING TRAIL
 * SPECIALIZATIONS 
 
-
-
 ## About MLCamp Scouts
 
 Over time, we will be updating this section with the identities of various "scouts" who have helped document and discover relevant trails through this content, along with a description of their contributions
 
 1. [Nitya Narasimhan](https://www.github.com/nitya) - MLCamp Creator & Lead Scout
-2. ## Acknowledgment
+
+## 
 
 
 
