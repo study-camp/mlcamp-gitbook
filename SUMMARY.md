@@ -1,3 +1,8 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+
+## PYTHON
+
+* [Learn Python: Basics](python/learn-python.md)
+
