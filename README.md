@@ -28,13 +28,108 @@ With Machine Learning Camp \(MLCAMP\), the goal is to follow a slow and progress
 
 Over time, we will be updating this section with the relevant trails \(syllabus\) for each phase. A lot of these recommendations are based on the guidance provided for [**Preliminary Resources for the Udacity MLND.**](https://www.udacity.com/wiki/nd009?nocache#!#preliminary-resources)
 
-* PYTHON TRAIL
-* DATA ANALYSIS TRAIL
-* MACHINE LEARNING TRAIL
-* DEEP LEARNING TRAIL
-* SPECIALIZATIONS 
+These topics reflect the pre-requisites outline in the [Udacity Machine Learning Nanodegree program](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009). We will try to cover these in full though we may not necessarily do those in the same order.
 
-## About MLCamp Scouts
+It is our hope that some subset of Study Campers will consider following through and enrolling in that program to complete projects and obtain their certification in due course. However, that is a paid program. Our focus on Study Camp is leverage freely available resources first to ensure that all campers get foundational understanding of the concepts before they enroll in any paid program.
+
+### 
+
+### PYTHON TRAIL
+
+Most of the intermediate and advanced tools and techniques for machine learning \(that we will cover\) require knowledge of Python \(the programming language\). In particular, we expect that students will need a primer in the following aspects of Python that we hope to cover in these notes.
+
+1. _Strings, numbers, and variables_
+2. _Statements, operators, and expressions_
+3. _Lists, tuples, and dictionaries_
+4. _Conditions, loops_
+5. _Procedures, objects, modules, and libraries_
+6. _Troubleshooting and debugging_
+7. _Research & Documentation_
+8. _Problem solving_
+9. _Algorithms and data structures_
+
+**RESOURCES:**
+
+1. [LearnPython.org \(Online\)](https://www.gitbook.com/book/study-camp/ml-camp-2017/edit#) - great interactive tutorial for data science, supported by DataCamp
+2. [Learn Python the Hard Way \(Online\)](https://learnpythonthehardway.org/book/) - great for learning through exercises
+3. [Programming Foundations with Python \(Udacity\)](https://www.udacity.com/course/programming-foundations-with-python--ud036) - great for learning with videos \([playlist here](https://www.youtube.com/watch?v=X0FoelOIZM0&list=PLAwxTw4SYaPnYajEbZvqtcVWQ6XGhvtOW)\)
+
+
+
+### DATA ANALYSIS TRAIL
+
+### Statistics
+
+* _Populations & Samples_
+* _Mean, Median, Mode_
+* _Standard Error_
+* _Variation, Standard Deviations_
+* _Normal Distribution_
+* _Precision & Accuracy_
+
+**RESOURCES:**
+
+* Udacity / [ST-101: Introduction To Statistics](https://www.udacity.com/course/intro-to-statistics--st101) = making decisions based on data \(2mo\)
+* Udacity / [UD-201: Introduction to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201) = making predictions from data \(2mo\)
+* Udacity[ / UD-827: Introduction to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) = mathematics for understanding data \(2mo\)
+
+### Linear Algebra
+
+* _Derivatives_
+* _Integrals_
+* _Series Expansions_
+* _Matrix operations through eigenvectors and eigenvalues_
+
+**RESOURCES:**
+
+* Udacity / [UD-953: Linear Algebra Refresher](https://www.udacity.com/course/linear-algebra-refresher-course--ud953) = primer with Python \(4mo\)
+
+
+
+
+
+### MACHINE LEARNING TRAIL
+
+### Supervised Learning
+
+* Lesson 0: Machine Learning is the ROX
+* Lesson 1: Decision Trees
+* Lesson 2: Regression and Classification
+* Lesson 3: Neural Networks
+* Lesson 4: Instance-Based Learning
+* Lesson 5: Ensemble B&B
+* Lesson 6: Kernel Methods and Support Vector Machines \(SVM\)s
+* Lesson 7: Computational Learning Theory
+* Lesson 8: VC Dimensions
+* Lesson 9: Bayesian Learning
+* Lesson 10: Bayesian Inference
+
+### Unsupervised Learning
+
+* Lesson 1: Randomized optimization
+* Lesson 2: Clustering
+* Lesson 3: Feature Selection
+* Lesson 4: Feature Transformation
+* Lesson 5: Information Theory
+
+### Reinforcement Learning
+
+* Lesson 1: Markov Decision Processes
+* Lesson 2: Reinforcement Learning
+* Lesson 3: Game Theory
+* Lesson 4: Game Theory, Continued
+
+**RESOURCES:**
+
+* Udacity / [UD-262: Intro to Machine Learning](https://www.udacity.com/course/machine-learning--ud262)
+* Udacity / [UD-CS271: Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
+
+  
+
+
+
+
+### About MLCamp Scouts
 
 Over time, we will be updating this section with the identities of various "scouts" who have helped document and discover relevant trails through this content, along with a description of their contributions
 
