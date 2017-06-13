@@ -10,6 +10,8 @@
 
 ## STATISTICS
 
+* [Introduction](statistics/introduction.md)
+
 ## LINEAR ALGEBRA
 
 ## SUPERVISED LEARNING

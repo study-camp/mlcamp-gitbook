@@ -54,8 +54,6 @@ Most of the intermediate and advanced tools and techniques for machine learning 
 2. [Learn Python the Hard Way \(Online\)](https://learnpythonthehardway.org/book/) - great for learning through exercises
 3. [Programming Foundations with Python \(Udacity\)](https://www.udacity.com/course/programming-foundations-with-python--ud036) - great for learning with videos \([playlist here](https://www.youtube.com/watch?v=X0FoelOIZM0&list=PLAwxTw4SYaPnYajEbZvqtcVWQ6XGhvtOW)\)
 
-
-
 ### DATA ANALYSIS TRAIL
 
 ### Statistics
@@ -83,10 +81,6 @@ Most of the intermediate and advanced tools and techniques for machine learning 
 **RESOURCES:**
 
 * Udacity / [UD-953: Linear Algebra Refresher](https://www.udacity.com/course/linear-algebra-refresher-course--ud953) = primer with Python \(4mo\)
-
-
-
-
 
 ### MACHINE LEARNING TRAIL
 
@@ -123,11 +117,6 @@ Most of the intermediate and advanced tools and techniques for machine learning 
 
 * Udacity / [UD-262: Intro to Machine Learning](https://www.udacity.com/course/machine-learning--ud262)
 * Udacity / [UD-CS271: Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
-
-  
-
-
-
 
 ### About MLCamp Scouts
 
