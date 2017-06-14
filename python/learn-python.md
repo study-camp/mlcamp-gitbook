@@ -12,8 +12,7 @@ The requirements for machine learning are that you have a good grasp of basic Co
 * _Problem solving_
 * _Algorithms and data structures_
 
-_**For our requirements, we are going to assume Python 3 usage in order to be prepared to work with iPython \(and Jupyter\) notebooks for future projects. **_[_**Read this page**_](https://wiki.python.org/moin/Python2orPython3)_** for why Python 3 is the way to go for our needs, and where you can learn about the differences \(and migration path\) from Python 2.**_  
-
+_**For our requirements, we are going to assume Python 3 usage in order to be prepared to work with iPython \(and Jupyter\) notebooks for future projects. **_[_**Read this page**_](https://wiki.python.org/moin/Python2orPython3)_** for why Python 3 is the way to go for our needs, and where you can learn about the differences \(and migration path\) from Python 2.**_
 
 
 
