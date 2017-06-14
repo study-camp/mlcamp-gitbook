@@ -53,6 +53,7 @@ Most of the intermediate and advanced tools and techniques for machine learning 
 1. [LearnPython.org \(Online\)](https://www.gitbook.com/book/study-camp/ml-camp-2017/edit#) - great interactive tutorial for data science, supported by DataCamp
 2. [Learn Python the Hard Way \(Online\)](https://learnpythonthehardway.org/book/) - great for learning through exercises
 3. [Programming Foundations with Python \(Udacity\)](https://www.udacity.com/course/programming-foundations-with-python--ud036) - great for learning with videos \([playlist here](https://www.youtube.com/watch?v=X0FoelOIZM0&list=PLAwxTw4SYaPnYajEbZvqtcVWQ6XGhvtOW)\)
+4. [Google's Python Class](https://developers.google.com/edu/python/)
 
 ### DATA ANALYSIS TRAIL
 
