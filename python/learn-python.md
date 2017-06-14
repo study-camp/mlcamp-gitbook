@@ -1,8 +1,25 @@
 # Learn Python: Basics
 
+The requirements for machine learning are that you have a good grasp of basic Computer Science concepts and their implementation \(or usage\) in Python.
+
+* _Strings, numbers, and variables_
+* _Statements, operators, and expressions_
+* _Lists, tuples, and dictionaries_
+* _Conditions, loops_
+* _Procedures, objects, modules, and libraries_
+* _Troubleshooting and debugging_
+* _Research & Documentation_
+* _Problem solving_
+* _Algorithms and data structures_
+
+_**For our requirements, we are going to assume Python 3 usage in order to be prepared to work with iPython \(and Jupyter\) notebooks for future projects. **_[_**Read this page**_](https://wiki.python.org/moin/Python2orPython3)_** for why Python 3 is the way to go for our needs, and where you can learn about the differences \(and migration path\) from Python 2.**_  
+
+
+
+
 These are notes from the online [Learn Python](http://learnpython.org/) Tutorials. In this section we'll cover the **Basics** portion of those tutorials consisting of the following parts.
 
-* [Hello, World!](http://learnpython.org/en/Hello%2C_World%21)
+* [Hello, World!](http://learnpython.org/en/Hello%2C_World!)
 * [Variables and Types](http://learnpython.org/en/Variables_and_Types)
 * [Lists](http://learnpython.org/en/Lists)
 * [Basic Operators](http://learnpython.org/en/Basic_Operators)
@@ -15,7 +32,7 @@ These are notes from the online [Learn Python](http://learnpython.org/) Tutorial
 * [Dictionaries](http://learnpython.org/en/Dictionaries)
 * [Modules and Packages](http://learnpython.org/en/Modules_and_Packages)
 
-## [Hello World](http://learnpython.org/en/Hello%2C_World%21)
+## [Hello World](http://learnpython.org/en/Hello%2C_World!)
 
 Concepts introduced in this section
 
@@ -49,7 +66,7 @@ Concepts introduced in this section
 * Add items using **append**: `mylist.append(1)`
 * Access items: `mylist[0]` \(note that list is 0-indexed\)
 
-Iterate over list: 
+Iterate over list:
 
 ```
 for x in mylist:
