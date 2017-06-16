@@ -30,5 +30,7 @@
 
 ## REINFORCEMENT LEARNING
 
+* [Introduction](reinforcement-learning/introduction.md)
+
 ## APPENDIX
 
