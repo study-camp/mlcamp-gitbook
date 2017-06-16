@@ -26,7 +26,3 @@ Use this section to capture notes, FAQ and questions around the following lesson
 
 
 
-
-
-
-
