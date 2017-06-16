@@ -26,6 +26,8 @@
 
 ## SUPERVISED LEARNING
 
+* [Introduction](supervised-learning/introduction.md)
+
 ## REINFORCEMENT LEARNING
 
 ## APPENDIX
