@@ -16,9 +16,13 @@
 
 * [Refresher](linear-algebra/refresher.md)
 
-## SUPERVISED LEARNING
+## DATA ANALYSIS
+
+* [Introduction](data-analysis/introduction.md)
 
 ## UNSUPERVISED LEARNING
+
+## SUPERVISED LEARNING
 
 ## REINFORCEMENT LEARNING
 
