@@ -12,9 +12,7 @@ The requirements for machine learning are that you have a good grasp of basic Co
 * _Problem solving_
 * _Algorithms and data structures_
 
-
-
-_**For our requirements, we are going to assume Python 3 usage in order to be prepared to work with iPython \(and Jupyter\) notebooks for future projects. **_[_**Read this page**_](https://wiki.python.org/moin/Python2orPython3)_** for why Python 3 is the way to go for our needs, and where you can learn about the differences \(and migration path\) from Python 2.**_
+_**For our requirements, we are going to assume Python 3 usage in order to be prepared to work with iPython \(and Jupyter\) notebooks for future projects. **_[_**Read this page**_](https://wiki.python.org/moin/Python2orPython3)_** or **_[_**this article from Wesley Chun \(Google\)**_](https://www.quora.com/As-someone-interested-in-learning-Python-should-I-start-with-2-x-or-go-straight-to-3-x/answer/Wesley-Chun?srid=hFhk&share=1)_** for why Python 3 is the way to go when starting from scratch like we are, and where you can learn about the differences \(and migration path\) from Python 2.**_
 
 These are notes from the online [Learn Python](http://learnpython.org/) Tutorials. In this section we'll cover the **Basics** portion of those tutorials consisting of the following parts.
 
@@ -44,8 +42,6 @@ _Things to try:_
 1. _Remove indentation_
 2. Add comments on 1 line, many lines, end of line
 3. Print without parentheses
-
-
 
 ## [Variables And Types](http://learnpython.org/en/Variables_and_Types)
 
