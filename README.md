@@ -22,8 +22,8 @@ With Machine Learning Camp \(MLCAMP\), the goal is to follow a slow and progress
 * Phase 1:[ Python Fundamentals](https://www.udacity.com/course/programming-foundations-with-python--ud036)
 * Phase 2: [Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
 * Phase 3: [Machine Learning \(UD 262\)](https://www.udacity.com/course/machine-learning--ud262) OR [Machine Learning \(UD 120\)](https://www.udacity.com/course/intro-to-machine-learning--ud120)
-* Phase 4: [Practical Deep Learning For Coders](http://course.fast.ai/) OR [Deep Learning Foundations](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
-* Phase 5: Specialization \(AI, Robotics, Self-Driving Cars, etc.\)
+* Phase 4: [Practical Deep Learning For Coders](http://course.fast.ai/) OR [Deep Learning \(UD 730](https://www.udacity.com/course/deep-learning--ud730)\) 
+* Phase 5: Specialization \([Deep Learning Foundations](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3), AI, Robotics, Self-Driving Cars, etc.\)
 
 ## About MLCamp Trails
 
