@@ -4,6 +4,10 @@ This section covers the "Reinforcement Learning" segment of the [Machine Learnin
 
 #### Topics in Reinforcement Learning
 
-1. 
+1. Lesson 1: Markov Decision Processes
+2. Lesson 2: Reinforcement Learning
+3. Lesson 3: Game Theory
+4. Lesson 4: Game Theory, Continued
+
 
 
