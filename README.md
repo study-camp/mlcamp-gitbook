@@ -18,10 +18,11 @@ It means that regardless of your expertise or domain, you will encounter machine
 
 With Machine Learning Camp \(MLCAMP\), the goal is to follow a slow and progressive approach to machine learning:
 
-* Phase 1: Python Fundamentals
-* Phase 2: Data Analysis
-* Phase 3: Machine Learning
-* Phase 4: Deep Learning
+* Phase 0: [Ananconda & Jupyter](https://classroom.udacity.com/courses/ud1111)
+* Phase 1:[ Python Fundamentals](https://www.udacity.com/course/programming-foundations-with-python--ud036)
+* Phase 2: [Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
+* Phase 3: [Machine Learning](https://www.udacity.com/course/machine-learning--ud262)
+* Phase 4: [Practical Deep Learning For Coders](http://course.fast.ai/) OR [Deep Learning Foundations](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
 * Phase 5: Specialization \(AI, Robotics, Self-Driving Cars, etc.\)
 
 ## About MLCamp Trails
@@ -55,9 +56,11 @@ Most of the intermediate and advanced tools and techniques for machine learning 
 3. [Programming Foundations with Python \(Udacity\)](https://www.udacity.com/course/programming-foundations-with-python--ud036) - great for learning with videos \([playlist here](https://www.youtube.com/watch?v=X0FoelOIZM0&list=PLAwxTw4SYaPnYajEbZvqtcVWQ6XGhvtOW)\)
 4. [Google's Python Class](https://developers.google.com/edu/python/)
 
+### 
+
 ### DATA ANALYSIS TRAIL
 
-### Statistics
+### \(Refresher\) Statistics
 
 * _Populations & Samples_
 * _Mean, Median, Mode_
@@ -72,7 +75,7 @@ Most of the intermediate and advanced tools and techniques for machine learning 
 * Udacity / [UD-201: Introduction to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201) = making predictions from data \(2mo\)
 * Udacity[ / UD-827: Introduction to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) = mathematics for understanding data \(2mo\)
 
-### Linear Algebra
+### \(Refresher\) Linear Algebra
 
 * _Derivatives_
 * _Integrals_
@@ -82,6 +85,26 @@ Most of the intermediate and advanced tools and techniques for machine learning 
 **RESOURCES:**
 
 * Udacity / [UD-953: Linear Algebra Refresher](https://www.udacity.com/course/linear-algebra-refresher-course--ud953) = primer with Python \(4mo\)
+
+### \(Main\) Intro to Data Analysis
+
+You'll learn how to go through the entire data analysis process, which includes:
+
+* Posing a question
+* Wrangling your data into a format you can use and fixing any problems with it
+* Exploring the data, finding patterns in it, and building your intuition about it
+* Drawing conclusions and/or making predictions
+* Communicating your findings
+
+You'll also learn how to use the Python libraries NumPy, Pandas, and Matplotlib to write code that's cleaner, more concise, and runs faster.
+
+**RESOURCES**
+
+1. Udacity / [UD-170: Intro to Data Analysis ](https://www.udacity.com/course/intro-to-data-analysis--ud170)
+
+### 
+
+### 
 
 ### MACHINE LEARNING TRAIL
 
@@ -123,7 +146,7 @@ Most of the intermediate and advanced tools and techniques for machine learning 
 
 Over time, we will be updating this section with the identities of various "scouts" who have helped document and discover relevant trails through this content, along with a description of their contributions
 
-1. [Nitya Narasimhan](https://www.github.com/nitya) - MLCamp Creator & Lead Scout
+1. [Nitya Narasimhan](https://www.github.com/nitya) - MLCamp Creator / Camp Counselor
 
 ## 
 
