@@ -108,6 +108,8 @@ You'll also learn how to use the Python libraries NumPy, Pandas, and Matplotlib 
 
 ### MACHINE LEARNING TRAIL
 
+This compressed trail covers the three main topics \(Supervised, Unsupervised and Reinforcement learning\) in a single course. Alternatively, you can also explore deep-dive courses separately via [UD-741 \(Unsupervised Learning\)](https://www.udacity.com/course/machine-learning-unsupervised-learning--ud741) and [UD-600 \(Reinforcement Learning\)](https://www.udacity.com/course/reinforcement-learning--ud600).
+
 ### Supervised Learning
 
 * Lesson 0: Machine Learning is the ROX
@@ -141,6 +143,8 @@ You'll also learn how to use the Python libraries NumPy, Pandas, and Matplotlib 
 
 * Udacity / [UD-262: Intro to Machine Learning](https://www.udacity.com/course/machine-learning--ud262)
 * Udacity / [UD-CS271: Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
+
+### 
 
 ### About MLCamp Scouts
 
