@@ -22,6 +22,8 @@
 
 ## UNSUPERVISED LEARNING
 
+* [Introduction](unsupervised-learning/introduction.md)
+
 ## SUPERVISED LEARNING
 
 ## REINFORCEMENT LEARNING
