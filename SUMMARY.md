@@ -10,7 +10,7 @@
 
 ## STATISTICS
 
-* [Introduction](statistics/introduction.md)
+* [Refresher](statistics/introduction.md)
 
 ## LINEAR ALGEBRA
 
