@@ -12,9 +12,9 @@ The requirements for machine learning are that you have a good grasp of basic Co
 * _Problem solving_
 * _Algorithms and data structures_
 
+
+
 _**For our requirements, we are going to assume Python 3 usage in order to be prepared to work with iPython \(and Jupyter\) notebooks for future projects. **_[_**Read this page**_](https://wiki.python.org/moin/Python2orPython3)_** for why Python 3 is the way to go for our needs, and where you can learn about the differences \(and migration path\) from Python 2.**_
-
-
 
 These are notes from the online [Learn Python](http://learnpython.org/) Tutorials. In this section we'll cover the **Basics** portion of those tutorials consisting of the following parts.
 
@@ -39,10 +39,18 @@ Concepts introduced in this section
 * **Comments**: use \# for single-line comments
 * **Indentation**: Python uses indentation for blocks \(not braces\). Use tabs or spaces to indent.
 
+_Things to try:_
+
+1. _Remove indentation_
+2. Add comments on 1 line, many lines, end of line
+3. Print without parentheses
+
+
+
 ## [Variables And Types](http://learnpython.org/en/Variables_and_Types)
 
-* Python is not statically typed. You don't need to declare variables \(or their types\) before using them
-* Python is object-oriented. Every variable is an object.
+* **Python is dynamically typed \(not statically typed like Java\)**. You don't need to declare variables \(or their types\) before using them - rather the type of the variable is decided by run-time value assigned to it.
+* **Python is object-oriented.** Every variable is an object.
 
 **Numbers**
 
@@ -57,13 +65,15 @@ Concepts introduced in this section
 * Simultaneous assignment works e.g., `a,b = 3,4`
 * Cannot mix number and string types with operator e.g., `one = 1 + "hello" + 2` does not work
 
+## 
+
 ## [Lists](http://learnpython.org/en/Lists)
 
-* Similar to arrays.
-* Can contain any type of variable & have unlimited number of entries
+* **Similar to arrays**. Can contain any type of variable & have unlimited number of entries
 * Declaration: `mylist = [ ]`
 * Add items using **append**: `mylist.append(1)`
-* Access items: `mylist[0]` \(note that list is 0-indexed\)
+* Access items: `mylist[0]` 
+* Lists are **0-indexed **\(i.e., index of first element is 0\)
 
 Iterate over list:
 
