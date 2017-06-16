@@ -1,6 +1,6 @@
 # Introduction
 
-This section covers the "Supervised Learning" segment of the Machine Learning - UD262 course.
+This section covers the "Supervised Learning" segment of the [Machine Learning - UD262 course.](https://www.udacity.com/course/machine-learning--ud262)
 
 #### Topics in Supervised Learning
 
