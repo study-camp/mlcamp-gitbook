@@ -34,7 +34,7 @@
 
 ## DEEP LEARNING
 
-* Introduction
+* [Introduction](deep-learning-foundations/introduction.md)
 
 ## APPENDIX
 
