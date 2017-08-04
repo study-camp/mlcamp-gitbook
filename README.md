@@ -8,7 +8,7 @@ The idea behind Study Camp is to combine the self-study approach of online learn
 * _Scouts & Trails_: Because there are so many sources and types of content, a key value of study camps is to provide a curated set of resources and a clear trail to follow for all campers regardless of their expertise. This allows beginners to acquire basic knowledge before tackling tougher topics, while advanced campers can progress directly to more difficult trails. In addition, we identify "Trail Scouts", campers who either have experience with a specific trail or have simply progressed ahead on a new trail so that they can return and report any issues/challenges to help others navigate that terrain.
 * _Communication Channels_: A key goal for study camps was to allow everyone in the community to participate regardless of where they live, when they can participate, and how much experience they have on the topic. To achieve this we employ **Slack** as our communications channel. All campers are expected \(mandatory\) to join the Slack channel and participate at least once a week \(in a regular _check in_\) to provide updates about their progress. A failure to check in four consecutive times will automatically remove that camper from that specific camp expedition.
 
-**The Study Camp Slack is now live at https://studycamp.slack.com. Please contact @nitya for an invite.**
+**The Study Camp Slack is now live at **[https://studycamp.slack.com](https://studycamp.slack.com)**. Please contact @nitya for an invite.**
 
 ## About Machine Learning Study Camps
 
@@ -148,11 +148,43 @@ This compressed trail covers the three main topics \(Supervised, Unsupervised an
 
 ### 
 
+### 
+
+### DEEP LEARNING TRAIL
+
+This compressed trail provides the foundations for Deep Learning, that will be useful if you want to then pursue advanced nanodegrees like [Artificial Intelligence](https://www.udacity.com/ai), [Self-Driving Cars](https://www.udacity.com/drive) or [Robotics](https://www.udacity.com/robotics). 
+
+The trail is primarily based on the [Deep Learning Foundations program](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101) and will try to provide relevant resources \(e.g., study notes, online articles and relevant resources\) that may be useful for those enrolled in that paid program. 
+
+### Deep Learning Foundations
+
+* Intro to Python \(refresher\)
+* Neural Networks
+* Convolutional Neural Networks \(CNN\)
+* Recurrent Neural Networks \(RNN\)
+* Generative Adversarial Networks \(GAN\)
+
+
+
+**RESOURCES**
+
+Because the DLF program is a paid one, the content is not necessarily available to those exploring this outside of it. However, we hope to also explore using the following "openly accessible" content sources in context:
+
+* Udacity / [UD-730: Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730)
+* Siraj Raval / [YouTube: Intro to Deep Learning \(Udacity\)](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
+* Fast.ai / [Practical Deep Learning for Coders](http://course.fast.ai/)
+* Fast.ai / [Cutting Edge Deep Learning for Coders](http://course.fast.ai/part2.html)
+
+
+
+### 
+
 ### About MLCamp Scouts
 
 Over time, we will be updating this section with the identities of various "scouts" who have helped document and discover relevant trails through this content, along with a description of their contributions
 
-1. [Nitya Narasimhan](https://www.github.com/nitya) - MLCamp Creator / Camp Counselor
+1. [Nitya Narasimhan](https://www.github.com/nitya) - MLCamp Creator / Deep Learning Trail
+2. [Saranraj Santhanam](https://github.com/sarasanta) - ML Camp Counselor / Machine Learning Trail 
 
 ## 
 
