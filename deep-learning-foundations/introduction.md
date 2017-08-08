@@ -14,12 +14,11 @@ This course has the following high-level topics: Each of these topics will be co
 * Recurrent Neural Networks \(RNN\)
 * Generative Adversarial Networks \(GAN\)
 
-
-
 #### **RESOURCES**
 
 Because the DLF program is a paid one, the content is not necessarily available to those exploring this outside of it. However, we hope to also explore using the following "openly accessible" content sources in context:
 
+* Udacity / [UD-110: Introduction to Python \(Starting out in Python 3\)](https://www.udacity.com/course/introduction-to-python--ud1110)
 * Udacity / [UD-730: Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730)
 * Siraj Raval / [YouTube: Intro to Deep Learning \(Udacity\)](https://www.youtube.com/playlist?list=PL2-dafEMk2A7YdKv4XfKpfbTH5z6rEEj3)
 * Fast.ai / [Practical Deep Learning for Coders](http://course.fast.ai/)
