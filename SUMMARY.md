@@ -35,6 +35,7 @@
 ## DEEP LEARNING
 
 * [Introduction](deep-learning-foundations/introduction.md)
+* [Python 3 Refresher](deep-learning-foundations/python-3-refresher.md)
 
 ## APPENDIX
 
