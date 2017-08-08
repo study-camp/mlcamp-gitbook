@@ -27,4 +27,32 @@ This is an optional module but, since this is a study group whose purpose is tec
 There are two baseball players, Player1 and Player2. In each of three seasons Player2 has a higher batting average than Player1. \(Batting Average is a percentage and is calculated by dividing "Hits" by "At Bats".\) However, when the three seasons are aggregated Player1 actually has the higher overall batting average!
 
 
+Player | Season1 | Season2 | Season3 | Combined
+-------|---------|---------|---------|---------
+P1 | 12/48 (.250) | 183/582 (.314) | 190/654	(.291) | **385/1284 (.300)**
+P2 | **104/411 (.253)** | **45/140 (.321)** | **163/495 (.329)** | 312/1046 (.298)	
+
+The key takeaway is that statistics can be misleading and one can draw the wrong conclusions from them if they are not done correctly. One should be skeptical of statistics and one must really understand the problem in order to turn raw data into statistics.
+
+A nice visual explanation of Simpson's Paradox is here: http://flowingdata.com/2013/09/19/a-visual-explanation-of-simpsons-paradox/
+
+## Probability ##
+Probability is the opposite of statistics. In statistics we are given data and try to infer possible causes related to the data whereas in probability we are given the description of the causes and we need to predict the data. That is, probability is the method of describing the anticipated outcome of something - a coin flip, say - and the reason for studying probablity is because it gives us the means for describing the relationship between the data and the underlying causes.
+
+The notation for probability is **P** and the probability of event "x" occurring is P(x). If something occurs 100% of the time it has a probability of 1. P(x) = 1.
+
+### Probability of a single event ###
+
+A single event is something like a coin toss or the roll of a single die. In the case of a single coin toss there are two equally possible outcomes, heads or tails, so the probability of either event occurring is 50%. P(H) = 0.5 and P(T) = 0.5. The probabilities of each single event always add up to 1. If P(H) is one event then P(T) is the *opposite event*. The opposite event is calculated as:
+P(opposite event) = 1 - P(original event). So, in our case P(T) = 1 - P(H).
+
+### Probability of independent events ###
+
+To get the probability of two successive events you multiply them together. For example, P(H) = 0.5. For two successive coin flips that result in heads, denoted P(H,H), to occur we multiply their respective probabilities together. In this case, 0.5 and 0.5. 0.5 * 0.5 = 0.25. So, P(H,H) = 0.25. The outcome of one coin flip does not affect the outcome of the other. Thus, they are independent events. Independent events are also called *composite events*. 
+
+### Probability of dependent events ###
+
+In this case we want to know the probability of something given that something else happened. For example, we might want to know the probability of "x" given that "y" occurs. This is notated as P(x | y). This is known as a *conditional probability*.
+
+
 
